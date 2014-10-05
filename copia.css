@@ -1,0 +1,41 @@
+header{
+	width: 70%;
+	height: 80px;
+	margin-left: 15%;
+}
+body{
+	
+}
+footer{
+
+}
+.imagen1{
+	float: left;
+	height: 80px;
+
+}
+.list{
+	margin-left: 5%;
+	width: 300px;
+	float: left;
+}
+
+#lista{
+	display: inline-block;
+	padding: 10px;
+	font-family: helvetica;
+}
+
+.cabecera{
+	background-image: url("C:/Users/Marina/Desktop/Generation/Javascript/firsthack/copiadelayout/img/header.jpg");
+	width: 70%;
+	margin-left: 15%;
+	height: 405px;
+	margin-top: -16px;
+}
+.letras{
+	text-align: center;
+	color: white;
+	position: relative;
+	top: 200px;
+}
